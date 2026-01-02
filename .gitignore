@@ -1,0 +1,21 @@
+# Exclude ApplyThreadsAPI folder
+ApplyThreadsAPI/
+
+# Exclude all Python scripts (data collection code)
+*.py
+__pycache__/
+
+# Exclude platform-specific code
+platforms/reddit/
+platforms/trustpilot
+store/
+
+# Exclude cookies
+cookies/
+
+# Exclude sensitive/temp files
+.DS_Store
+.claude/
+draft.md
+var.py
+config.py
