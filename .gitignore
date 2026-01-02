@@ -8,7 +8,6 @@ __pycache__/
 # Exclude platform-specific code
 platforms/reddit/
 platforms/trustpilot
-store/
 
 # Exclude cookies
 cookies/
